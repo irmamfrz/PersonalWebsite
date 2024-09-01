@@ -77,10 +77,10 @@ export default function Component() {
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">
                   Portolfio
                 </h2>
-                <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                {/* <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   Check out some of the impressive projects I've delivered for
                   my clients.
-                </p>
+                </p> */}
               </div>
             </div>
             <div className="mx-auto grid max-w-5xl grid-cols-1 gap-6 py-12 sm:grid-cols-2 lg:grid-cols-3 lg:gap-12">
